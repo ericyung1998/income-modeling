@@ -1,6 +1,6 @@
 # income-regression
 
-HKUST x JP Morgan Fintech Mentorship Program: Income Regression Models
+HKUST x JP Morgan Fintech Mentorship Program: Income Regression and Classification Models
 
 - Two regression models that predict Income based on Experience and Age
 
