@@ -1,4 +1,4 @@
-# income-regression
+# income-modeling
 
 HKUST x JP Morgan Fintech Mentorship Program: Income Regression and Classification Models
 
