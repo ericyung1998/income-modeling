@@ -8,4 +8,4 @@ HKUST x JP Morgan Fintech Mentorship Program: Income Regression and Classificati
     - Specifications: regression analysis has detailed documentation, while classification analysis is just functions
 - Python Libraries: sklearn, pandas, seaborn, numpy
     - Machine Learning Models: Linear Regression, Ridge Regression, Logisitic Regression, Decision Tree
-- Improvements: extensively tune hyperparameters of ridge regression, logistic regression, and decision tree to reduce overfitting, consider using polynomial regression modelling
+- Improvements: extensively tune hyperparameters of ridge regression, logistic regression, and decision tree to reduce overfitting, consider using polynomial regression modeling
